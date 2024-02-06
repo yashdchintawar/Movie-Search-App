@@ -14,7 +14,7 @@ The Movie Search App is a visually appealing web application designed for users 
 
 ## Live Preview
 
-![Check here](https://yashdchintawar.github.io/Movie-Search-App/)
+[Check here](https://yashdchintawar.github.io/Movie-Search-App/)
 
 ## Getting Started
 
